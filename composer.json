@@ -1,0 +1,13 @@
+{
+    "name": "madmatt/silverstripe-securitytxt",
+    "description": "A convenient way to configure the creation of a security.txt file (see https://securitytxt.org/)",
+    "type": "silverstripe-module",
+    "license": "WTFPL",
+    "authors": [
+        {
+            "name": "madmatt",
+            "email": "signups@madman.net.nz"
+        }
+    ],
+    "require": {}
+}

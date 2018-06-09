@@ -1,0 +1,9 @@
+---
+Name: securitytxtroutes
+After: '#rootroutes'
+---
+Director:
+  rules:
+    '.well-known/security.txt': 'SecurityTxtController'
+    '.well-known/security-key.txt': 'SecurityTxtController'
+---
